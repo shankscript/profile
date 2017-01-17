@@ -1,0 +1,197 @@
+{
+	"basics": {
+		"name": "Shashank Sharma",
+		"label": "Fullstack Developer",
+		"picture": "./static/profile.jpg",
+		"email": "shankscript@gmail.com",
+		"phone": "7829288702",
+		"website": "https://shankscript.me",
+		"summary": "Over the past 8 years I have frequently challenged myself with new languages, frameworks and methodologies. My core language has always been javascript but not limitied to it. I had also worked as a Python, Java, Android & iOS developer building games, user interfaces, backend & business applications for various devices and formfactors. In my current role I am working as Fullstack developer and cloud consultant, working on a ReactJS Business application. I have a very strong interest in full stack javascript development and have recently been doing the same from a couple of years. I have experience using build tools such as Grunt & webpack. I also belive in Test Based developement and I invest good amount of time in automating every aspects of testing including unit, end to end & Gui tesing to name a few. In my most recent roles I have been exposed to enterprise Agile development and received training in live projects.",
+		"location": {
+			"address": "India",
+			"postalCode": "560066",
+			"city": "Bangalore",
+			"countryCode": "IN"
+			
+		},
+		"profiles": [
+			{
+				"network": "Twitter",
+				"username": "shankscript",
+				"url": ""
+			},
+			{
+				"network": "Github",
+				"username": "shankscript",
+				"url": ""
+			}
+,
+			{
+				"network": "Linkedin",
+				"username": "shankscript",
+				"url": ""
+			}
+
+,
+			{
+				"network": "Facebook",
+				"username": "shankscript",
+				"url": ""
+			}
+
+
+
+			
+		]
+	},
+	"work": [
+		{
+			"company": "IAG",
+			"position": "Senior Front End Developer",
+			"website": "http://nrma.com.au",
+			"startDate": "2016-08-01",
+			"endDate": "",
+			"summary": "I returned to IAG to work as a React developer on a new application. The app uses React/Redux to integrate with custom API's.",
+			"highlights": []
+		},
+		{
+			"company": "Pacific Magazines",
+			"position": "Senior Front End Developer",
+			"website": "",
+			"startDate": "2016-03-01",
+			"endDate": "2016-08-01",
+			"summary": "During my time at Pacific Magazines I worked on a couple of large React applications using React/Redux to integrate with a .NET MVC Application.",
+			"highlights": []
+		},
+		{
+			"company": "IAG",
+			"position": "UI Developer",
+			"website": "http://nrma.com.au",
+			"startDate": "2014-11-01",
+			"endDate": "2016-03-01",
+			"summary": "Working as a UI developer as part of IAG Labs developing html/css/javascript solutions to integrate with the backend systems for the online quoting applications.",
+			"highlights": []
+		},
+		{
+			"company": "Reactive",
+			"position": "Front End Developer",
+			"website": "",
+			"startDate": "2014-09-01",
+			"endDate": "2014-11-30",
+			"summary": "At Reactive I was responsible for working with a .NET team to deliver templates using javascript/sass/grunt and handlebars. I also had exposure to TFS for source control.",
+			"highlights": []
+		},
+		{
+			"company": "City of Sydney Council",
+			"position": "Front End Developer",
+			"website": "",
+			"startDate": "2014-05-01",
+			"endDate": "2014-08-31",
+			"summary": "For City of Sydney I was a Front End Developer working with Wordpress on multiple key websites such as Sydneynewyearseve.com.au. All code was developed using LESS and Bootstrap for a consistent responsive interface.",
+			"highlights": []
+		},
+		{
+			"company": "Self Employed",
+			"position": "Freelance Web Developer",
+			"website": "",
+			"startDate": "2010-03-01",
+			"endDate": "2014-05-01",
+			"summary": "As a freelance web developer I mainly concentrated on building bespoke CMS solutions for agencies using Wordpress. As a full stack developer my responsibilities included setting up hosting, domains, databases and delivering an easy to use custom Wordpress theme with Advanced Custom Fields and toward the latter end of my freelance venture, responsive layouts.",
+			"highlights": []
+		},
+		{
+			"company": "Soap Creative",
+			"position": "Senior Web Developer",
+			"website": "http://soapcreative.com",
+			"startDate": "2006-07-01",
+			"endDate": "2010-03-01",
+			"summary": "At SOAP I was required to carry out full stack duties across a broad range of projects including php/MySQL with front end technologies ranging from html/css to Flash.",
+			"highlights": []
+		},
+		{
+			"company": "M&C Saatchi",
+			"position": "Web Developer",
+			"website": "http://mcsaatchi.com.au/",
+			"startDate": "2006-05-01",
+			"endDate": "2006-08-31",
+			"summary": "Flash development with xml & amfphp for php/mysql integration.",
+			"highlights": []
+		},
+		{
+			"company": "Wunderman/GPY&R",
+			"position": "Web Developer",
+			"website": "http://www.gpyr.com.au/",
+			"startDate": "2005-07-01",
+			"endDate": "2006-05-01",
+			"summary": "Flash developer using xml & amfphp, html/css with php/mysql backend integration and CMS development.",
+			"highlights": []
+		},
+		{
+			"company": "Federal Publishing Company",
+			"position": "Web Developer",
+			"website": "",
+			"startDate": "2004-07-01",
+			"endDate": "2005-03-31",
+			"summary": "Lead web developer on homehound.com.au, html/css/javascript development with php & SQL server integration.",
+			"highlights": []
+		}
+	],
+	"volunteer": [],
+	"education": [
+		{
+			"institution": "Birmingham Conservatoire",
+			"area": "Music",
+			"studyType": "Bachelor (hons)",
+			"startDate": "1994-08-01",
+			"endDate": "1998-07-01",
+			"gpa": "",
+			"courses": []
+		}
+	],
+	"awards": [],
+	"publications": [],
+	"skills": [
+		{
+			"name": "Front End Development",
+			"level": "Master",
+			"keywords": [
+				"HTML",
+				"CSS",
+				"Javascript",
+				"ES2015",
+				"jQuery",
+				"Typescript",
+				"Meteor",
+				"React",
+				"Handlebars",
+				"SASS",
+				"LESS",
+				"Gulp",
+				"Grunt",
+				"Babel",
+				"Bootstrap",
+				"Semantic UI",
+				"Material css",
+				"Node",
+				"php",
+				"MySQL",
+				"Git",
+				"Jira",
+				"Responsive"
+			]
+		}
+	],
+	"languages": [
+		{
+			"language": "English",
+			"fluency": "Native speaker"
+		}
+	],
+	"interests": [
+		{
+			"name": "Guitar",
+			"keywords": []
+		}
+	],
+	"references": []
+}

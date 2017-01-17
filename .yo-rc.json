@@ -1,0 +1,9 @@
+{
+  "generator-react-webpack": {
+    "appName": "profile",
+    "style": "css",
+    "cssmodules": true,
+    "postcss": true,
+    "generatedWithVersion": 4
+  }
+}
