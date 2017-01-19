@@ -46,106 +46,61 @@
 	},
 	"work": [
 		{
-			"company": "IAG",
-			"position": "Senior Front End Developer",
-			"website": "http://nrma.com.au",
-			"startDate": "2016-08-01",
+			"company": "Danfoss, Denmark (HCLTECH)",
+			"position": "Fullstack Developer and Cloud consultant",
+			"website": "http://heating.danfoss.com/home/#/",
+			"startDate": "2016-01-18",
 			"endDate": "",
-			"summary": "I returned to IAG to work as a React developer on a new application. The app uses React/Redux to integrate with custom API's.",
-			"highlights": []
+			"summary": "I am working on a Large Business Application based on Reactjs for front end and nodejs for backend web-apis. This application has various components used for visualization of different IOT products parameters LIVE.",
+			"highlights": ["Responsive Design","Multi-platform support","Live rendering of data using HTML5-Canvas & D3", "ReactJS components", "Webapis & MySql DB"]
 		},
 		{
-			"company": "Pacific Magazines",
-			"position": "Senior Front End Developer",
-			"website": "",
-			"startDate": "2016-03-01",
-			"endDate": "2016-08-01",
-			"summary": "During my time at Pacific Magazines I worked on a couple of large React applications using React/Redux to integrate with a .NET MVC Application.",
-			"highlights": []
+			"company": "Schneider Electric, Bangalore (HCLTECH)",
+			"position": "Fullstack Developer",
+			"website": "https://www.wiseup.se/",
+			"startDate": "2015-04-01",
+			"endDate": "2016-01-10",
+			"summary": "<a href='https://www.wiseup.se/'>Wiseup</a> is an E-Commerce application where you book professional electricians and electrical products online. Wiseup technology stack includes AngularJS, Bootstrap, Expressjs, nodejs and grunt. I developed both frontend and backend-webapis to support the infrastructure. The product had a pilot launch in 2015 in Sweden and it has been a good success.",
+			"highlights": ["AngularJS","Nodejs","Responsive Design","Amazon Web Services"]
 		},
 		{
-			"company": "IAG",
+			"company": "CISCO, Bangalore (L&T Infotech)",
 			"position": "UI Developer",
-			"website": "http://nrma.com.au",
-			"startDate": "2014-11-01",
-			"endDate": "2016-03-01",
-			"summary": "Working as a UI developer as part of IAG Labs developing html/css/javascript solutions to integrate with the backend systems for the online quoting applications.",
-			"highlights": []
+			"website": "http://www.cisco.com/c/en/us/products/video/index.html",
+			"startDate": "2013-05-02",
+			"endDate": "2015-03-30",
+			"summary": "HTML5 based SetTopBox (STB) Electronic Programming Guide (EPG) development for STB/Tablets. It’s an HTML5 based application which runs on STB browser (webkit/blink) and gives STB users a seamless UI experience. It is based on MVC design pattern.",
+			"highlights": ["Responsive"]
 		},
 		{
-			"company": "Reactive",
-			"position": "Front End Developer",
+			"company": "Sony, Bangalore (TATA Elxsi)",
+			"position": "Consultant",
 			"website": "",
-			"startDate": "2014-09-01",
-			"endDate": "2014-11-30",
-			"summary": "At Reactive I was responsible for working with a .NET team to deliver templates using javascript/sass/grunt and handlebars. I also had exposure to TFS for source control.",
-			"highlights": []
+			"startDate": "2010-08-10",
+			"endDate": "2013-04-30",
+			"summary": "DLNA implementation for SONY smart phones",
+			"highlights": ["Android","Smart phones"]
 		},
 		{
-			"company": "City of Sydney Council",
-			"position": "Front End Developer",
+			"company": "PANSONIC, Bangalore (TATA Elxsi)",
+			"position": "Specialist",
 			"website": "",
-			"startDate": "2014-05-01",
-			"endDate": "2014-08-31",
-			"summary": "For City of Sydney I was a Front End Developer working with Wordpress on multiple key websites such as Sydneynewyearseve.com.au. All code was developed using LESS and Bootstrap for a consistent responsive interface.",
-			"highlights": []
-		},
-		{
-			"company": "Self Employed",
-			"position": "Freelance Web Developer",
-			"website": "",
-			"startDate": "2010-03-01",
-			"endDate": "2014-05-01",
-			"summary": "As a freelance web developer I mainly concentrated on building bespoke CMS solutions for agencies using Wordpress. As a full stack developer my responsibilities included setting up hosting, domains, databases and delivering an easy to use custom Wordpress theme with Advanced Custom Fields and toward the latter end of my freelance venture, responsive layouts.",
-			"highlights": []
-		},
-		{
-			"company": "Soap Creative",
-			"position": "Senior Web Developer",
-			"website": "http://soapcreative.com",
-			"startDate": "2006-07-01",
-			"endDate": "2010-03-01",
-			"summary": "At SOAP I was required to carry out full stack duties across a broad range of projects including php/MySQL with front end technologies ranging from html/css to Flash.",
-			"highlights": []
-		},
-		{
-			"company": "M&C Saatchi",
-			"position": "Web Developer",
-			"website": "http://mcsaatchi.com.au/",
-			"startDate": "2006-05-01",
-			"endDate": "2006-08-31",
-			"summary": "Flash development with xml & amfphp for php/mysql integration.",
-			"highlights": []
-		},
-		{
-			"company": "Wunderman/GPY&R",
-			"position": "Web Developer",
-			"website": "http://www.gpyr.com.au/",
-			"startDate": "2005-07-01",
-			"endDate": "2006-05-01",
-			"summary": "Flash developer using xml & amfphp, html/css with php/mysql backend integration and CMS development.",
-			"highlights": []
-		},
-		{
-			"company": "Federal Publishing Company",
-			"position": "Web Developer",
-			"website": "",
-			"startDate": "2004-07-01",
-			"endDate": "2005-03-31",
-			"summary": "Lead web developer on homehound.com.au, html/css/javascript development with php & SQL server integration.",
-			"highlights": []
+			"startDate": "2010-08-10",
+			"endDate": "2013-04-30",
+			"summary": "Smart TV application based on Javascript framework",
+			"highlights": ["Games","Smart TV Business applications"]
 		}
 	],
 	"volunteer": [],
 	"education": [
 		{
-			"institution": "Birmingham Conservatoire",
-			"area": "Music",
-			"studyType": "Bachelor (hons)",
-			"startDate": "1994-08-01",
-			"endDate": "1998-07-01",
-			"gpa": "",
-			"courses": []
+			"institution": "",
+			"area": "Engineering",
+			"studyType": "Bachelor of Technology(Distinction)",
+			"startDate": "2003-06-01",
+			"endDate": "2007-06-01",
+			"cgpa": "8.2",
+			"courses": ["Electronics & Communication Engineering"]
 		}
 	],
 	"awards": [],
@@ -155,25 +110,20 @@
 			"name": "Front End Development",
 			"level": "Master",
 			"keywords": [
-				"HTML",
-				"CSS",
+				"ReactJS",
+				"AngularJS",
+				"NodeJS",
+				"ExpressJS",
+				"Bootstrap",
+				"HTML5",
+				"CSS3",
 				"Javascript",
 				"ES2015",
-				"jQuery",
-				"Typescript",
-				"Meteor",
-				"React",
-				"Handlebars",
 				"SASS",
 				"LESS",
-				"Gulp",
 				"Grunt",
 				"Babel",
-				"Bootstrap",
 				"Semantic UI",
-				"Material css",
-				"Node",
-				"php",
 				"MySQL",
 				"Git",
 				"Jira",

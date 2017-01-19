@@ -22,7 +22,7 @@ const WorkItem = props => {
         <div className="workItem">
           <h3>{props.workItemData.position}, <span>{props.workItemData.company}</span></h3>
           <p className="workDates">{getWorkDates()}</p>
-          <p>{props.workItemData.summary}</p>
+          <p  dangerouslySetInnerHTML={{__html:props.workItemData.summary}}></p>
           <ul>{getHighlights}</ul>
         </div>
     )
