@@ -10,6 +10,7 @@ const Profile = props => {
                   <ul className="list-unstyled contact-links text-center">
                     <li><i className="fa fa-lg fa-location-arrow"></i>  {profileObj.location.city}, {profileObj.location.countryCode}</li>
                     <li><i className="fa fa-lg fa-envelope"></i><a href="mailto:{profileObj.email}">{profileObj.email}</a></li>
+                    <li><i className="fa fa-lg fa-download"></i><a href="./static/cv.pdf">Download profile</a></li>
                   </ul>
                   <div className="divider"></div>
                   <ul className="profileLinks list-inline text-center">
